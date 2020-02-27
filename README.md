@@ -1,2 +1,0 @@
-# CanvasGravity
-Created with CodeSandbox
